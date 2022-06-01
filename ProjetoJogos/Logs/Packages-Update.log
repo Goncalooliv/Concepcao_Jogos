@@ -41,3 +41,13 @@ The following packages were added:
   com.unity.modules.xr@1.0.0
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
+
+=== Wed Jun  1 19:31:31 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.tilemap@1.0.0
+  com.unity.postprocessing@2.3.0
+  com.unity.progrids@3.0.3-preview.4

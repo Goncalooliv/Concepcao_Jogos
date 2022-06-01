@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.unity.2d.sprite": "1.0.0",
+    "com.unity.2d.tilemap": "1.0.0",
     "com.unity.cinemachine": "2.6.11",
     "com.unity.collab-proxy": "1.5.7",
     "com.unity.connect.share": "4.1.1",
@@ -10,6 +11,8 @@
     "com.unity.learn.iet-framework": "1.2.3",
     "com.unity.lego.materials": "2.2.0",
     "com.unity.lego.modelimporter": "7.0.1",
+    "com.unity.postprocessing": "2.3.0",
+    "com.unity.progrids": "3.0.3-preview.4",
     "com.unity.settings-manager": "1.0.3",
     "com.unity.test-framework": "1.1.30",
     "com.unity.textmeshpro": "3.0.6",

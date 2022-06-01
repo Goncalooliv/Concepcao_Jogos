@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/LEGO/Scenes/CostumizeMenu.unity
+- path: Assets/LEGO/Scenes/LEGO Tutorial.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
